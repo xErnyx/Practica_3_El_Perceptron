@@ -28,7 +28,7 @@
 | 📚 **Carrera** | Ciencias de la Computación |
 | 🤖 **Asignatura** | Inteligencia Artificial · 6.º nivel |
 | 👨‍🏫 **Docente** | Ing. Rodrigo Tufiño |
-| 📅 **Fecha** | 13 Noviembre de 2026 |
+| 📅 **Fecha** | 16 Noviembre de 2026 |
 
 ---
 
